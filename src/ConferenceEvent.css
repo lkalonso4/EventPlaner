@@ -36,7 +36,7 @@
   .text h1{
     width: 900px;
     font-size: 40px;
-    background-color: #133b6a;
+    background-color: #b7bdc3;
     color: white;
     width:990px;
     height: 70px;
@@ -253,7 +253,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 20px;
-    background-color:#133b6a;
+    background-color:#061220;
     color: white;
     width: 100vw;
   }

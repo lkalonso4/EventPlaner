@@ -81,7 +81,9 @@ const ConferenceEvent = () => {
                     </button>
                 </div>
             </navbar>
-            <div className="main_container">
+            <div className="main_container" >
+                
+            
                 {!showItems
                     ?
                     (
@@ -99,6 +101,7 @@ const ConferenceEvent = () => {
               </div>
               <div className="text">{item.name}</div>
               <div>${item.cost}</div>
+              
      <div className="button_container">
         {venueItems[index].name === "Auditorium Hall (Capacity:200)" ? (
 
@@ -192,7 +195,7 @@ const ConferenceEvent = () => {
 
 
 
-
+            
             </div>
         </>
 
